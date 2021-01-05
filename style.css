@@ -12,7 +12,28 @@
 	right: 0;
 	width: 100%;
 	min-height: 100vh;
+	padding: 100px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #111;
+	color: #fff;
+	z-index: 2;
 }
+
+.showcase header {
+}
+
+.toggle {
+	position: relative;
+	width: 60px;
+	height: 60px;
+	background: url('assests/menustatic.png');
+	background-repeat: no-repeat;
+	background-size: 30px;
+	background-position: center;
+	cursor: pointer;
+}
+
 .menu {
-	display: none;
 }
