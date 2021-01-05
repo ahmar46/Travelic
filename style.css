@@ -42,7 +42,7 @@
 	position: relative;
 	width: 60px;
 	height: 60px;
-	background: url('assests/menustatic.png');
+	background: url('https://i.ibb.co/HrfVRcx/menu.png');
 	background-repeat: no-repeat;
 	background-size: 30px;
 	background-position: center;
@@ -129,4 +129,22 @@
 
 .text a:hover {
 	letter-spacing: 6px;
+}
+
+.social {
+	position: absolute;
+	bottom: 20px;
+	z-index: 10;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.social li {
+	list-style: none;
+}
+
+.social li a {
+	display: inline-block;
+	filter: invert(1);
 }
