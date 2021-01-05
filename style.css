@@ -147,4 +147,11 @@
 .social li a {
 	display: inline-block;
 	filter: invert(1);
+	margin-right: 20px;
+	transform: scale(0.5);
+	transition: 0.5s;
+}
+
+.social li a:hover {
+	transform: scale(0.5) translateY(-15px);
 }
