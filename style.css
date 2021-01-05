@@ -64,4 +64,69 @@
 	width: 100%;
 	height: 100%;
 	object-fit: cover;
+	opacity: 0.8;
+}
+
+.overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #0c97d3b0;
+	mix-blend-mode: overlay;
+}
+
+.text {
+	position: relative;
+	z-index: 10;
+}
+
+.text h2 {
+	font-size: 5em;
+	font-weight: 800;
+	line-height: 1em;
+	text-transform: uppercase;
+}
+
+.text h3 {
+	font-size: 4em;
+	font-weight: 700;
+	line-height: 1em;
+	text-transform: uppercase;
+}
+
+.text p {
+	font-size: 1.1em;
+	margin: 20px 0;
+	font-weight: 400;
+	max-width: 700px;
+}
+
+.credits {
+	font-weight: 500;
+}
+
+.credits a {
+	font-weight: 500;
+	text-decoration: none;
+	color: #fff;
+}
+
+.text a {
+	display: inline-block;
+	font-size: 1em;
+	background: #fff;
+	padding: 10px 30px;
+	text-decoration: none;
+	color: #111;
+	font-weight: 400;
+	margin-top: 10px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	transition: 0.2s;
+}
+
+.text a:hover {
+	letter-spacing: 6px;
 }
