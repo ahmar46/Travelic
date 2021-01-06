@@ -155,3 +155,14 @@
 .social li a:hover {
 	transform: scale(0.5) translateY(-15px);
 }
+
+@media (max-width: 991px) {
+	.showcase,
+	.showcase header {
+		padding: 40px;
+	}
+
+	.text h2 {
+		font-size: 3em;
+	}
+}
