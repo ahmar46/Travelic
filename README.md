@@ -1,1 +1,1 @@
-### This is a landing page for a fake Travel
+### This is a landing page for a fake Travel Website.
