@@ -1,3 +1,3 @@
 ### This is a landing page for a fake Travel Website.
 
-### Technologies uUsed:
+### Technologies Used
