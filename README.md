@@ -1,4 +1,4 @@
-### This is a landing page for a fake Travel Website. I named it TRAVELIC.
+### This is a landing page for a fake Travel Website. I named it TRAVELIC a
 
 ### Technologies Used: HTML, CSS & JavaScript.
 
