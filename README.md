@@ -4,6 +4,6 @@
 
 ### Find me on InstaGram- [@electrifyingcodes][instagram].
 
-### Find me on InstaGram- [@electrifyingcodes][dis].
+### Find me on InstaGram- [@electrifyingcodes][discord].
 
 [instagram]: https://www.instagram.com/electrifyingcodes
