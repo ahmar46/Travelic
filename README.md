@@ -7,4 +7,4 @@
 ### Find me on InstaGram- [@electrifyingcodes][discord].
 
 [instagram]: https://www.instagram.com/electrifyingcodes
-[discord]: https://www.instagram.com/electrifyingcodes
+[discord]: https://discord.com/invite/VGj9tpuqhm
